@@ -1,0 +1,8 @@
+src/
+public/
+build/
+config-overrides.js
+rollup.config.js
+tsconfig.json
+yarn-error.log
+.env
